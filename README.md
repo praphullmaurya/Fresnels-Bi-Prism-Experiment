@@ -1,1 +1,1 @@
-# Fresnel-s-Bi-Prism-Experiment
+# Fresnel's-Bi-Prism-Experiment
